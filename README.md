@@ -1,4 +1,4 @@
-# clarissanftprofileS
+# clarissanftprofile
 - clarissa (1).jpg
 - clarissa (2).jpg
 - clarissa (3).jpg
