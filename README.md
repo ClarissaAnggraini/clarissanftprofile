@@ -1,4 +1,4 @@
-# clarissa nft profile
+# clarissa nft profile picturee
 - clarissa (1).jpg
 - clarissa (2).jpg
 - clarissa (3).jpg
